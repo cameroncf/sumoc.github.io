@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
 title: Sumo Consulting
-description: We do big things.
+description: Based in Atlanta
+logo: /assets/img/large_long_80h.gif
+contactemail: hello@sumoc.com
+contactphone: 678.637.5072
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "Cameron Childress"
